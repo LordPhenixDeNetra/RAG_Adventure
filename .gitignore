@@ -106,6 +106,9 @@ cython_debug/
 .chromadb-vdb/
 chromadb-vdb/
 
+ultra_rag_db/
+.ultra_rag_db
+
 # PyCharm
 .idea/
 

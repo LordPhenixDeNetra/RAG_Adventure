@@ -17,3 +17,9 @@ pypdf
 python-jose
 httpx
 python-dotenv
+redis
+rank-bm25
+prometheus-client
+langchain-experimental
+huggingface_hub[hf_xet]
+hf_xet

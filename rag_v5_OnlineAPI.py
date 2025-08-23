@@ -83,7 +83,7 @@ PROVIDER_CONFIGS = {
 
 # Variables de configuration (à définir via variables d'environnement ou fichier config)
 API_KEYS = {
-    Provider.MISTRAL: os.getenv("MISTRAL_API_KEY", "kpSEgzOJjdBJ3NS5KUUXtUuAcGeFU3F3"),  # Remplacez par votre vraie clé
+    Provider.MISTRAL: os.getenv("MISTRAL_API_KEY", "A4bimvKsC83FQ54j7UtCzaf4lcfpnGn6"),  # Remplacez par votre vraie clé
     Provider.OPENAI: os.getenv("OPENAI_API_KEY", ""),
     Provider.ANTHROPIC: os.getenv("ANTHROPIC_API_KEY", ""),
     Provider.DEEPSEEK: os.getenv("DEEPSEEK_API_KEY", ""),
