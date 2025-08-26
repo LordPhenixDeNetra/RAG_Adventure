@@ -115,7 +115,7 @@ API_KEYS = {
     Provider.GROQ: os.getenv("GROQ_API_KEY", "")
 }
 
-DEFAULT_PROVIDER = Provider.GROQ
+DEFAULT_PROVIDER = Provider.MISTRAL
 
 # Configuration Redis pour le cache
 try:
@@ -860,7 +860,8 @@ RÉPONSE:"""
                 "performance_metrics": {
                     "search_time_ms": round((time.time() - start_time - (end_time - time.time())) * 1000, 2),
                     "generation_time_ms": round((end_time - start_time) * 1000, 2),
-                    "cache_hits": cache_hit_counter._value._value
+                    # "cache_hits": cache_hit_counter._value._value
+                    "cache_hits": "metrics_available_via_prometheus"
                 }
             }
 

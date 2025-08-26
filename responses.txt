@@ -1,0 +1,283 @@
+{
+  "id": "803419bf-209f-43df-a901-f6b7a743ec83",
+  "answer": "D'après le contexte fourni, aucune information n'est disponible concernant l'intelligence artificielle. Les sources se concentrent exclusivement sur les formalités administratives de l'IPRES, les droits et obligations des participants, et les obligations des employeurs.",
+  "context_found": true,
+  "provider_used": "deepseek",
+  "model_used": "deepseek-chat",
+  "response_time_ms": 17787.38,
+  "timestamp": "2025-08-26T14:19:02.476160",
+  "search_results": 45,
+  "ranked_results": 3,
+  "enhanced_queries": [
+    "Qu'est-ce que l'intelligence artificielle?",
+    "Définition et principes fondamentaux de l'IA moderne",
+    "Histoire et applications concrètes des systèmes intelligents"
+  ],
+  "sources": [
+    {
+      "source_id": 1,
+      "score": -6.37413544920093,
+      "original_rank": 1,
+      "metadata": {
+        "chunk_index": 13,
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. ",
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_type": "structured",
+        "chunk_length": 1000,
+        "document_id": "CSS.pdf",
+        "total_chunks": 57
+      }
+    },
+    {
+      "source_id": 2,
+      "score": -6.383733727225398,
+      "original_rank": 35,
+      "metadata": {
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "document_id": "CSS.pdf",
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_type": "structured",
+        "chunk_length": 1000,
+        "chunk_index": 13,
+        "total_chunks": 57,
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. "
+      }
+    },
+    {
+      "source_id": 3,
+      "score": -7.258841514587402,
+      "original_rank": 6,
+      "metadata": {
+        "chunk_index": 38,
+        "chunk_id": "CSS.pdf_chunk_38",
+        "chunk_length": 866,
+        "document_id": "CSS.pdf",
+        "chunk_type": "structured",
+        "total_chunks": 57,
+        "context_before": ", tout employeur doit obligatoirement s'immatriculer auprès des institutions de prévoyance sociale : • IPRES (Institution de Prévoyance Retraite du Sénégal) • CSS (Caisse de Sécurité Sociale) Définiti",
+        "context_after": ". Documents requis Concernant l'entreprise Documents obligatoires • Demande d'immatriculation dûment remplie, signée et cachetée • Formulaire d'adhésion dûment rempli, signé et cacheté (téléchargeable"
+      }
+    }
+  ],
+  "performance_metrics": {
+    "search_time_ms": 17787.38,
+    "generation_time_ms": 17787.38,
+    "cache_hits": "metrics_available_via_prometheus"
+  }
+}
+
+
+===========================================================
+
+{
+  "id": "803419bf-209f-43df-a901-f6b7a743ec83",
+  "answer": "D'après le contexte fourni, aucune information n'est disponible concernant l'intelligence artificielle. Les sources se concentrent exclusivement sur les formalités administratives de l'IPRES, les droits et obligations des participants, et les obligations des employeurs.",
+  "context_found": true,
+  "provider_used": "deepseek",
+  "model_used": "deepseek-chat",
+  "response_time_ms": 17787.38,
+  "timestamp": "2025-08-26T14:19:02.476160",
+  "search_results": 45,
+  "ranked_results": 3,
+  "enhanced_queries": [
+    "Qu'est-ce que l'intelligence artificielle?",
+    "Définition et principes fondamentaux de l'IA moderne",
+    "Histoire et applications concrètes des systèmes intelligents"
+  ],
+  "sources": [
+    {
+      "source_id": 1,
+      "score": -6.37413544920093,
+      "original_rank": 1,
+      "metadata": {
+        "chunk_index": 13,
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. ",
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_type": "structured",
+        "chunk_length": 1000,
+        "document_id": "CSS.pdf",
+        "total_chunks": 57
+      }
+    },
+    {
+      "source_id": 2,
+      "score": -6.383733727225398,
+      "original_rank": 35,
+      "metadata": {
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "document_id": "CSS.pdf",
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_type": "structured",
+        "chunk_length": 1000,
+        "chunk_index": 13,
+        "total_chunks": 57,
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. "
+      }
+    },
+    {
+      "source_id": 3,
+      "score": -7.258841514587402,
+      "original_rank": 6,
+      "metadata": {
+        "chunk_index": 38,
+        "chunk_id": "CSS.pdf_chunk_38",
+        "chunk_length": 866,
+        "document_id": "CSS.pdf",
+        "chunk_type": "structured",
+        "total_chunks": 57,
+        "context_before": ", tout employeur doit obligatoirement s'immatriculer auprès des institutions de prévoyance sociale : • IPRES (Institution de Prévoyance Retraite du Sénégal) • CSS (Caisse de Sécurité Sociale) Définiti",
+        "context_after": ". Documents requis Concernant l'entreprise Documents obligatoires • Demande d'immatriculation dûment remplie, signée et cachetée • Formulaire d'adhésion dûment rempli, signé et cacheté (téléchargeable"
+      }
+    }
+  ],
+  "performance_metrics": {
+    "search_time_ms": 17787.38,
+    "generation_time_ms": 17787.38,
+    "cache_hits": "metrics_available_via_prometheus"
+  }
+}
+
+
+==========================================
+
+{
+  "id": "803419bf-209f-43df-a901-f6b7a743ec83",
+  "answer": "D'après le contexte fourni, aucune information n'est disponible concernant l'intelligence artificielle. Les sources se concentrent exclusivement sur les formalités administratives de l'IPRES, les droits et obligations des participants, et les obligations des employeurs.",
+  "context_found": true,
+  "provider_used": "deepseek",
+  "model_used": "deepseek-chat",
+  "response_time_ms": 17787.38,
+  "timestamp": "2025-08-26T14:19:02.476160",
+  "search_results": 45,
+  "ranked_results": 3,
+  "enhanced_queries": [
+    "Qu'est-ce que l'intelligence artificielle?",
+    "Définition et principes fondamentaux de l'IA moderne",
+    "Histoire et applications concrètes des systèmes intelligents"
+  ],
+  "sources": [
+    {
+      "source_id": 1,
+      "score": -6.37413544920093,
+      "original_rank": 1,
+      "metadata": {
+        "chunk_index": 13,
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. ",
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_type": "structured",
+        "chunk_length": 1000,
+        "document_id": "CSS.pdf",
+        "total_chunks": 57
+      }
+    },
+    {
+      "source_id": 2,
+      "score": -6.383733727225398,
+      "original_rank": 35,
+      "metadata": {
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "document_id": "CSS.pdf",
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_type": "structured",
+        "chunk_length": 1000,
+        "chunk_index": 13,
+        "total_chunks": 57,
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. "
+      }
+    },
+    {
+      "source_id": 3,
+      "score": -7.258841514587402,
+      "original_rank": 6,
+      "metadata": {
+        "chunk_index": 38,
+        "chunk_id": "CSS.pdf_chunk_38",
+        "chunk_length": 866,
+        "document_id": "CSS.pdf",
+        "chunk_type": "structured",
+        "total_chunks": 57,
+        "context_before": ", tout employeur doit obligatoirement s'immatriculer auprès des institutions de prévoyance sociale : • IPRES (Institution de Prévoyance Retraite du Sénégal) • CSS (Caisse de Sécurité Sociale) Définiti",
+        "context_after": ". Documents requis Concernant l'entreprise Documents obligatoires • Demande d'immatriculation dûment remplie, signée et cachetée • Formulaire d'adhésion dûment rempli, signé et cacheté (téléchargeable"
+      }
+    }
+  ],
+  "performance_metrics": {
+    "search_time_ms": 17787.38,
+    "generation_time_ms": 17787.38,
+    "cache_hits": "metrics_available_via_prometheus"
+  }
+}
+
+========================
+
+{
+  "id": "bdd7a9fc-996e-4ee8-b2e3-1a8e653268aa",
+  "answer": "D'après le contexte fourni, aucune information n'est disponible concernant l'IA (Intelligence Artificielle). Les sources se concentrent exclusivement sur des sujets liés aux cotisations de retraite (IPRES), aux droits et obligations des participants, et aux conditions de prise en charge des enfants.",
+  "context_found": true,
+  "provider_used": "deepseek",
+  "model_used": "deepseek-chat",
+  "response_time_ms": 17817.3,
+  "timestamp": "2025-08-26T14:21:54.003594",
+  "search_results": 45,
+  "ranked_results": 3,
+  "enhanced_queries": [
+    "Qu'est-ce que l'IA?",
+    "Définition et principes de l'intelligence artificielle",
+    "Applications et enjeux des systèmes intelligents automatisés"
+  ],
+  "sources": [
+    {
+      "source_id": 1,
+      "score": -5.773344449438651,
+      "original_rank": 19,
+      "metadata": {
+        "chunk_length": 1000,
+        "document_id": "CSS.pdf",
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. ",
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_type": "structured",
+        "chunk_index": 13,
+        "total_chunks": 57
+      }
+    },
+    {
+      "source_id": 2,
+      "score": -5.779719676694554,
+      "original_rank": 36,
+      "metadata": {
+        "context_after": "Obligations de vigilance Vous devez : • Vous assurer de votre déclaration effective par l'employeur • Contrôler la régularité des prélèvements sur votre bulletin de salaire • Suivre l'évolution de vot",
+        "chunk_index": 13,
+        "chunk_id": "CSS.pdf_chunk_13",
+        "chunk_length": 1000,
+        "context_before": ". [Page 8] Droits et Devoirs du Salarié - IPRES Définition du salarié Le salarié est une personne qui s'engage à exécuter un travail pour le compte d'un employeur, en contrepartie d'une rémunération. ",
+        "total_chunks": 57,
+        "document_id": "CSS.pdf",
+        "chunk_type": "structured"
+      }
+    },
+    {
+      "source_id": 3,
+      "score": -6.021210730756025,
+      "original_rank": 0,
+      "metadata": {
+        "chunk_length": 320,
+        "total_chunks": 57,
+        "chunk_id": "CSS.pdf_chunk_27",
+        "chunk_index": 27,
+        "context_before": "familiaux • Conserver tous les justificatifs Optimisation des droits • Vérifier l'accumulation des points avant la retraite • Évaluer l'intérêt d'une retraite anticipée (coût de l'abattement) • Se ren",
+        "document_id": "CSS.pdf",
+        "chunk_type": "structured",
+        "context_after": ". Constitution du dossier Documents requis • Demande de prestations (un imprimé par épouse) • Extrait d'acte de naissance ou carte d'identité du travailleur salarié • Extrait d'acte de mariage • Extra"
+      }
+    }
+  ],
+  "performance_metrics": {
+    "search_time_ms": 17817.3,
+    "generation_time_ms": 17817.3,
+    "cache_hits": "metrics_available_via_prometheus"
+  }
+}

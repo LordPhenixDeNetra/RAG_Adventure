@@ -1,0 +1,68 @@
+{
+    "id": "b154b539-ccf7-4b31-a85a-5dab5c5e5e06",
+    "answer": "D'après le contexte fourni, les Prestations Familiales (PF) sont mentionnées dans deux aspects :\n\n1. **Éléments exclus de l'assiette de cotisation** : Les prestations familiales sont exclues de l'assiette de calcul des cotisations sociales (Source 1 et Source 2).\n\n2. **Plafond de cotisation** : Une branche \"Prestations Familiales (PF)\" existe avec un plafond annuel de cotisation de 63 000 FCFA (Source 1 et Source 2).\n\nLe contexte ne fournit pas de détails supplémentaires sur la nature ou le contenu de ces prestations.",
+    "context_found": true,
+    "provider_used": "deepseek",
+    "model_used": "deepseek-chat",
+    "response_time_ms": 31294.76,
+    "timestamp": "2025-08-23T15:39:03.835813",
+    "search_results": 45,
+    "ranked_results": 3,
+    "enhanced_queries": [
+        "Parlez moi des prestations familiales",
+        "Quels sont les droits et aides financières pour les familles avec enfants ?",
+        "Comment fonctionnent les allocations familiales et les conditions pour en bénéficier ?"
+    ],
+    "sources": [
+        {
+            "source_id": 1,
+            "score": 1.5557572589565938,
+            "original_rank": 37,
+            "metadata": {
+                "chunk_index": 46,
+                "document_id": "CSS.pdf",
+                "chunk_id": "CSS.pdf_chunk_46",
+                "total_chunks": 57,
+                "context_after": ", AT-MP et PF Option 2 : En agence • Se rendre dans nos agences avec les documents requis Après déclaration Facture téléchargeable disponible dans le portail pour chaque période déclarée",
+                "context_before": ". Calendrier des déclarations Selon l'effectif de l'entreprise Effectif Fréquen ce Délai [Page 33] Plus de 10 salariés Mensuell e Dans les 15 premiers jours suivant la fin du mois échu Moins de 10 sal",
+                "chunk_length": 900,
+                "chunk_type": "structured"
+            }
+        },
+        {
+            "source_id": 2,
+            "score": 1.540887475013733,
+            "original_rank": 29,
+            "metadata": {
+                "context_after": ", AT-MP et PF Option 2 : En agence • Se rendre dans nos agences avec les documents requis Après déclaration Facture téléchargeable disponible dans le portail pour chaque période déclarée",
+                "chunk_id": "CSS.pdf_chunk_46",
+                "document_id": "CSS.pdf",
+                "chunk_index": 46,
+                "chunk_type": "structured",
+                "chunk_length": 900,
+                "context_before": ". Calendrier des déclarations Selon l'effectif de l'entreprise Effectif Fréquen ce Délai [Page 33] Plus de 10 salariés Mensuell e Dans les 15 premiers jours suivant la fin du mois échu Moins de 10 sal",
+                "total_chunks": 57
+            }
+        },
+        {
+            "source_id": 3,
+            "score": 1.2091046599540278,
+            "original_rank": 0,
+            "metadata": {
+                "total_chunks": 57,
+                "chunk_id": "CSS.pdf_chunk_34",
+                "chunk_type": "paragraph",
+                "context_before": ". Indemnités Journalières de Congé de Maternité Bénéficiaires Toute femme salariée enceinte (mariée ou non) d'une entreprise affiliée à la CSS. Conditions d'ouverture Période d'activité : 3 mois consé",
+                "chunk_length": 215,
+                "context_after": ". Services proposés • Soins médicaux préventifs et curatifs • Produits médico-pharmaceutiques • Analyses de laboratoire pour le diagnostic [Page 25] Secteurs d'activité des PMI Services de base • Cons",
+                "chunk_index": 34,
+                "document_id": "CSS.pdf"
+            }
+        }
+    ],
+    "performance_metrics": {
+        "search_time_ms": 31294.76,
+        "generation_time_ms": 31294.76,
+        "cache_hits": "metrics_available_via_prometheus"
+    }
+}
